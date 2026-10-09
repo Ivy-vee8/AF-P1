@@ -1,15 +1,20 @@
 # Team charter
 
 Team name:
+FableLovers
 
 Members and contact method:
+Joris
+Velma 
 
 ## Working agreement
 
 - Where we coordinate:
+
 - Expected response time:
 - How we divide issues:
 - Who reviews a PR if the usual reviewer is unavailable:
+Review person: Joris 
 - What we do when a member is blocked:
 - How we resolve a disagreement:
 
